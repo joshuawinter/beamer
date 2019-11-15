@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../alooma_utility/.idea/alooma_utility.iml" filepath="$PROJECT_DIR$/../alooma_utility/.idea/alooma_utility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/beamer.iml" filepath="$PROJECT_DIR$/.idea/beamer.iml" />
+    </modules>
+  </component>
+</project>
