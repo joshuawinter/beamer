@@ -21,6 +21,7 @@ Usage:
 export GOOGLE_APPLICATION_CREDENTIALS=/path/to/credentials.json
 python -m apache_beam.examples.bitcoin \
   --compress --fastavro --output fastavro-compressed
+
 """
 
 from __future__ import absolute_import
